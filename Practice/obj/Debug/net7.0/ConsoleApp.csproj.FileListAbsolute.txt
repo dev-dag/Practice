@@ -1,0 +1,15 @@
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll.config
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\pppol\OneDrive\바탕 화면\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
